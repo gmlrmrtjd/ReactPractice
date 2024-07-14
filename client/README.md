@@ -68,33 +68,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-# Employee Management System
-
-This is an employee management system that allows for tracking attendance records.
-
-## Features
-
--   View attendance records
--   Add new attendance records
-
-## Getting Started
-
-### Prerequisites
-
--   Node.js
--   npm
-
-### Installation
-
-1. Clone the repository
-2. Navigate to the project directory
-3. Install dependencies for both client and server
-
-```bash
-cd employee-management-system
-npm install
-cd client
-npm install
-cd ..
-```
